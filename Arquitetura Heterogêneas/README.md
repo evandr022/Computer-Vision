@@ -1,4 +1,4 @@
-## Heterogeneous Architectures
+## Heterogeneous Architectures  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Status-Completed-brightgreen"/> 
 Professor: Antônio Souto Rodriguez
 
 Workload: 20h
