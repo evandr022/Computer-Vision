@@ -5,9 +5,8 @@ Discipline: Heterogeneous Architectures
 ## Objective
 Create a GUI application to display image processing
 
-  ● Filter control buttons
-  
-  ● Runtime
+  - Filter control buttons  
+  - Runtime
 
 ## Developed filters
   - Flip
