@@ -1,27 +1,22 @@
-# Impact Lab Project 
-3rd class
-Discipline: Heterogeneous Architectures
+# Impact Lab Project - 3rd class
 
-## Objective
-Create a GUI application to display image processing
+## Modulo 01:
+Discipline: 
+ - Photography and Digital Cameras
+ - Heterogeneous Architectures
+ - Digital Image Processing
+ - Parallel Programming with Halide
 
-  - Filter control buttons  
-  - Runtime
+## Modulo 02:
+Discipline: 
+ - Probability and Statistics
+ - Computer Vision
+ - Machine Learning
+ - Image Analysis and Quality
 
-## Developed filters
-  - Flip
-  - Negative
-  - Change the saturation
-  - Mirrored
-    
-## Participants
-
-Darlysson Melo de Lima - 21954316
-
-Thiago Wesley Cunha de Oliveira - 21950084
-
-Luca Dias Naja - 21953242
-
-Samira Jeovana - 21952327
-
-Evandro Salvador Marinho da Silva - 22052988
+## Modulo 03:
+Discipline: 
+ - Computational Photography 1
+ - Advanced Image Quality
+ - Video Analytics and Quality
+ - Computational Photography 2
