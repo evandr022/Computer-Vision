@@ -3,7 +3,7 @@
 ## Modulo 01:
 Discipline: 
  - Photography and Digital Cameras
- - Heterogeneous Architectures
+ - Heterogeneous Architectures [Access here](https://github.com/evandr022/Computer-Vision/tree/main/Arquitetura%20Heterog%C3%AAneas)
  - Digital Image Processing
  - Parallel Programming with Halide
 
